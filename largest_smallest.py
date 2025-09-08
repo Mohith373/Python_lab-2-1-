@@ -1,3 +1,5 @@
-numbers=[1,1,1,2,3]
-noduplicates=(set(numbers))
-print(noduplicates)
+a=[11,21,22]
+largest=max(a)
+smallest=min(a)
+print("largest number is",largest)
+print("smallest number is",smallest)
